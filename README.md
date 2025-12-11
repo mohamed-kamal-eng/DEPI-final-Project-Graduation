@@ -146,3 +146,7 @@ A spectral index is a simple formula that combines different band values to high
 #### Folder Structure
 
 For the notebook to work, you must place the unzipped `EuroSAT_MS` folder in the same directory as the notebook file:
+🔗 Live Demo Link
+
+👉 https://huggingface.co/spaces/Mramero/land_type_classification
+
